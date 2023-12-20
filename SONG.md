@@ -5,11 +5,8 @@ Welcome to Naman's awesome playlist! 🎉
 Feel free to explore and enjoy the tunes. 🕺💃
 
 ## Songs and Movies
-
-- 🎵 **
-  ```In This Dil Me Kya Rakha Hai
-  ```
-  **
+```bash
+- 🎵 ```**In This Dil Me Kya Rakha Hai**```
 - 🎵 **Sun Zara Sun Zara**
 - 🎵 **Sari Duniya Jala Denge Ge**
 - 🎵 **Koi Mil Gya Mera Dil Gya Sochenge Tumhe Pyar**
@@ -53,7 +50,7 @@ Enjoy the music journey! 🚀
 
 If you have a song or movie suggestion to add, or want to make improvements to the playlist:
 
-```bash
+
 # Fork this repository.
 # Clone the forked repository to your local machine.
 ```
