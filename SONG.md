@@ -4,13 +4,14 @@ Welcome to Naman's awesome playlist! 🎉
 
 Feel free to explore and enjoy the tunes. 🕺💃
 
-## Songs and Movies
+## Songs
+In This Dil Me Kya Rakha Hai
 ```bash
 ##Songs 
 - 🎵 **In This Dil Me Kya Rakha Hai**
 ```
-In This Dil Me Kya Rakha Hai
-```
+
+
 ##
 ```bash
 ## Songs 
