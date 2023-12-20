@@ -22,33 +22,115 @@ Sun Zara Sun Zara
 Sun Zara Sun Zara
 ```
 - 🎵 **Sari Duniya Jala Denge Ge**
-- 🎵 **Koi Mil Gya Mera Dil Gya Sochenge Tumhe Pyar**
-- 🎥 **Diwana**
-- 🎵 **Khabo Be Basaya Tumko**
-- 🎵 **Tu Meri Jindigi Hai**
-- 🎥 **Aashiqi**
-- 🎵 **Pahli Pahli Bar**
-- 🎤 **Dildaria**
-- 🎵 **Panna Ki Tamnaha Hai**
-- 🎵 **Bada Samzaya Tenu**
-- 🎵 **Tu Mile Dil Khile**
-- 🎥 **Criminal - Kudiyon Dale Dana**
-- 🎥 **Husan Ka Chore**
-- 🎥 **Naman Haram**
-- 🎵 **Yaadon Ke Barat**
-- 🎵 **Acha Shila Diya**
-- 🎥 **Vichora**
-- 🎵 **Bedardi Se Pyar Ka**
-- 🎥 **Sanam Bevfa**
-- 🎥 **Karz**
-- 🎵 **Ek Hasina Thi Ek Diwana Tha**
-- 🎥 **Baazi**
-- 🎵 **Dole Dole Dil Dole**
-- 🎥 **Raja**
-- 🎵 **Nazrie Mili**
-- 🎥 **Sir**
-- 🎵 **Sun Sun Sun Barsat Ki Dun**
 
+```bash
+  
+```
+
+- 🎵 **Koi Mil Gya Mera Dil Gya Sochenge Tumhe Pyar**
+```bash
+  
+```
+- 🎥 **Diwana**
+```bash
+  
+```
+- 🎵 **Khabo Be Basaya Tumko**
+```bash
+  
+```
+- 🎵 **Tu Meri Jindigi Hai**
+```bash
+  
+```
+- 🎥 **Aashiqi**
+```bash
+  
+```
+- 🎵 **Pahli Pahli Bar**
+```bash
+  
+```
+- 🎤 **Dildaria**
+```bash
+  
+```
+- 🎵 **Panna Ki Tamnaha Hai**
+```bash
+  
+```
+- 🎵 **Bada Samzaya Tenu**
+```bash
+  
+```
+- 🎵 **Tu Mile Dil Khile**
+```bash
+  
+```
+- 🎥 **Criminal - Kudiyon Dale Dana**
+```bash
+  
+```
+- 🎥 **Husan Ka Chore**
+```bash
+  
+```
+- 🎥 **Naman Haram**
+```bash
+  
+```
+- 🎵 **Yaadon Ke Barat**
+```bash
+  
+```
+- 🎵 **Acha Shila Diya**
+```bash
+  
+```
+- 🎥 **Vichora**
+```bash
+  
+```
+- 🎵 **Bedardi Se Pyar Ka**
+```bash
+  
+```
+- 🎥 **Sanam Bevfa**
+```bash
+  
+```
+- 🎥 **Karz**
+```bash
+  
+```
+- 🎵 **Ek Hasina Thi Ek Diwana Tha**
+```bash
+  
+```
+- 🎥 **Baazi**
+```bash
+  
+```
+- 🎵 **Dole Dole Dil Dole**
+```bash
+  
+```
+- 🎥 **Raja**
+```bash
+  
+```
+- 🎵 **Nazrie Mili**
+```bash
+  
+```
+- 🎥 **Sir**
+```bash
+  
+```
+- 🎵 **Sun Sun Sun Barsat Ki Dun**
+```bash
+  
+```
 # Listen on Spotify
 
 🎧 [Click here to listen on Spotify](https://open.spotify.com/embed/playlist/4mt5PCzlz3DzGp8UOLQVIz?utm_source=generator)
