@@ -45,91 +45,95 @@ Sun Zara Sun Zara
 ```
 - 🎥 **Aashiqi**
 ```bash
-  
+  Aashiqi
 ```
 - 🎵 **Pahli Pahli Bar**
 ```bash
-  
+  Pahli Pahli Bar
 ```
 - 🎤 **Dildaria**
 ```bash
-  
+  Dildaria
 ```
 - 🎵 **Panna Ki Tamnaha Hai**
 ```bash
-  
+  Panna Ki Tamnaha Hai
 ```
 - 🎵 **Bada Samzaya Tenu**
 ```bash
-  
+  Bada Samzaya Tenu
 ```
 - 🎵 **Tu Mile Dil Khile**
 ```bash
-  
+  Tu Mile Dil Khile
 ```
-- 🎥 **Criminal - Kudiyon Dale Dana**
+- 🎵 **Kudiyon Dale Dana**
 ```bash
-  
+  Kudiyon Dale Dana
+```
+- 🎥 **Criminal**
+```bash
+  Criminal
 ```
 - 🎥 **Husan Ka Chore**
 ```bash
-  
+  Husan Ka Chore
 ```
 - 🎥 **Naman Haram**
 ```bash
-  
+  Naman Haram
 ```
 - 🎵 **Yaadon Ke Barat**
 ```bash
-  
+  Yaadon Ke Barat
 ```
 - 🎵 **Acha Shila Diya**
 ```bash
-  
+  Acha Shila Diya
 ```
 - 🎥 **Vichora**
 ```bash
-  
+  Vichora
 ```
 - 🎵 **Bedardi Se Pyar Ka**
 ```bash
-  
+  Bedardi Se Pyar Ka
 ```
 - 🎥 **Sanam Bevfa**
 ```bash
-  
+  Sanam Bevfa
 ```
 - 🎥 **Karz**
 ```bash
-  
+  Karz
 ```
 - 🎵 **Ek Hasina Thi Ek Diwana Tha**
 ```bash
-  
+  Ek Hasina Thi Ek Diwana Tha
 ```
 - 🎥 **Baazi**
 ```bash
-  
+  Baazi
 ```
 - 🎵 **Dole Dole Dil Dole**
 ```bash
-  
+  Dole Dole Dil Dole
 ```
 - 🎥 **Raja**
 ```bash
-  
+  Raja
 ```
 - 🎵 **Nazrie Mili**
 ```bash
-  
+  Nazrie Mili
 ```
 - 🎥 **Sir**
 ```bash
-  
+  Sir
 ```
 - 🎵 **Sun Sun Sun Barsat Ki Dun**
 ```bash
-  
+  Sun Sun Sun Barsat Ki Dun
 ```
 # Listen on Spotify
 
