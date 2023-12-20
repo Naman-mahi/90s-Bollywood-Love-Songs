@@ -32,21 +32,21 @@ Feel free to explore and enjoy the tunes. 🕺💃
 
 ## Movies
 
-- [Sir](movies.md#sir)
-- [Raja](movies.md#raja)
-- [Sanam Bevfa](movies.md#sanam-bevfa)
-- [Karz](movies.md#karz)
-- [Diwana](movies.md#diwana)
-- [Baazi](movies.md#baazi)
-- [Vichora](movies.md#vichora)
-- [Naman Haram](movies.md#naman-haram)
-- [Criminal](movies.md#criminal)
-- [Husan Ka Chore](movies.md#husan-ka-chore)
-- [Aashiqi](movies.md#aashiqi)
+- [Sir](MOVIES.md#sir)
+- [Raja](MOVIES.md#raja)
+- [Sanam Bevfa](MOVIES.md#sanam-bevfa)
+- [Karz](MOVIES.md#karz)
+- [Diwana](MOVIES.md#diwana)
+- [Baazi](MOVIES.md#baazi)
+- [Vichora](MOVIES.md#vichora)
+- [Naman Haram](MOVIES.md#naman-haram)
+- [Criminal](MOVIES.md#criminal)
+- [Husan Ka Chore](MOVIES.md#husan-ka-chore)
+- [Aashiqi](MOVIES.md#aashiqi)
 
 ## Track
 
-- [Dildaria](tracks.md#dildaria)
+- [Dildaria](TRACKS.md#dildaria)
 
 # Listen on Spotify
 
