@@ -1,0 +1,29 @@
+<!-- Spotify Playlist -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Playlist</title>
+    <!-- Include the Tailwind CSS CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 text-white h-screen flex flex-col items-center justify-center">
+
+    <div class="max-w-md w-full bg-white p-2 rounded-lg shadow-xl text-center">
+        <h1 class="text-2xl md:text-3xl lg:text-4xl text-red-500 font-extrabold mb-6">Namans Playlist</h1>
+        <!-- Spotify Playlist iframe -->
+        <iframe
+            class="w-full h-80 md:h-96 rounded-md shadow-md"
+            src="https://open.spotify.com/embed/playlist/4mt5PCzlz3DzGp8UOLQVIz?utm_source=generator"
+            width="100%"
+            height="352"
+            frameborder="0"
+            allowfullscreen=""
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+            loading="lazy">
+        </iframe>
+    </div>
+
+</body>
+</html>
