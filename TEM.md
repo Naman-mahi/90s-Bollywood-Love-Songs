@@ -181,12 +181,21 @@ git clone https://github.com/your-username/your-repository.git
 # Add your song or movie and save the file.
 
 # Commit your changes.
+```
 cd your-repository
-git add .
+```
+
+```
+git add
+```
+```
 git commit -m "Add [Your Song/Movie Title]"
+```
 
 # Push changes to your forked repository.
+```
 git push origin main
+```
 
 # Open a pull request.
 # Go to your forked repository on GitHub and click on "New pull request".
