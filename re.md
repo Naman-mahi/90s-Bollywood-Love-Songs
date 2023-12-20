@@ -1,7 +1,7 @@
 
 ### README.md
 
-```markdown
+
 # Naman's Playlist 🎶
 
 Welcome to Naman's awesome playlist! 🎉
