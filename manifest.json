@@ -1,17 +1,16 @@
 {
-    "name": "Namans Playlist",
-    "short_name": "Namans Playlist",
-    "description": "Choose and listen to your favorite playlists.",
-    "start_url": "/",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#000000",
-    "icons": [
-      {
-        "src": "/logo.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      }
-    ]
-  }
-  
+  "name": "Naman's Playlist",
+  "short_name": "Bollywood Love",
+  "description": "A Melodious Journey Down Memory Lane",
+  "start_url": "/90s-Bollywood-Love-Songs",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/90s-Bollywood-Love-Songs/logo.png",  // Adjust the path to the logo.png file
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
