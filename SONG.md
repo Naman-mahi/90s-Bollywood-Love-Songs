@@ -31,10 +31,7 @@ Sun Zara Sun Zara
 ```bash
   Koi Mil Gya Mera Dil Gya Sochenge Tumhe Pyar
 ```
-- 🎥 **Diwana**
-```bash
-  Diwana
-```
+
 - 🎵 **Khabo Be Basaya Tumko**
 ```bash
   Khabo Be Basaya Tumko
@@ -43,10 +40,7 @@ Sun Zara Sun Zara
 ```bash
   Tu Meri Jindigi Hai
 ```
-- 🎥 **Aashiqi**
-```bash
-  Aashiqi
-```
+
 - 🎵 **Pahli Pahli Bar**
 ```bash
   Pahli Pahli Bar
@@ -71,18 +65,8 @@ Sun Zara Sun Zara
 ```bash
   Kudiyon Dale Dana
 ```
-- 🎥 **Criminal**
-```bash
-  Criminal
-```
-- 🎥 **Husan Ka Chore**
-```bash
-  Husan Ka Chore
-```
-- 🎥 **Naman Haram**
-```bash
-  Naman Haram
-```
+
+
 - 🎵 **Yaadon Ke Barat**
 ```bash
   Yaadon Ke Barat
@@ -91,13 +75,41 @@ Sun Zara Sun Zara
 ```bash
   Acha Shila Diya
 ```
-- 🎥 **Vichora**
-```bash
-  Vichora
-```
+
 - 🎵 **Bedardi Se Pyar Ka**
 ```bash
   Bedardi Se Pyar Ka
+```
+
+- 🎵 **Ek Hasina Thi Ek Diwana Tha**
+```bash
+  Ek Hasina Thi Ek Diwana Tha
+```
+
+- 🎵 **Dole Dole Dil Dole**
+```bash
+  Dole Dole Dil Dole
+```
+
+- 🎵 **Nazrie Mili**
+```bash
+  Nazrie Mili
+```
+
+- 🎵 **Sun Sun Sun Barsat Ki Dun**
+```bash
+  Sun Sun Sun Barsat Ki Dun
+```
+
+## Movies
+
+- 🎥 **Sir**
+```bash
+  Sir
+```
+- 🎥 **Raja**
+```bash
+  Raja
 ```
 - 🎥 **Sanam Bevfa**
 ```bash
@@ -107,34 +119,41 @@ Sun Zara Sun Zara
 ```bash
   Karz
 ```
-- 🎵 **Ek Hasina Thi Ek Diwana Tha**
+- 🎥 **Diwana**
 ```bash
-  Ek Hasina Thi Ek Diwana Tha
+  Diwana
 ```
 - 🎥 **Baazi**
 ```bash
   Baazi
 ```
-- 🎵 **Dole Dole Dil Dole**
+- 🎥 **Vichora**
 ```bash
-  Dole Dole Dil Dole
+  Vichora
 ```
-- 🎥 **Raja**
+- 🎥 **Naman Haram**
 ```bash
-  Raja
+  Naman Haram
 ```
-- 🎵 **Nazrie Mili**
+- 🎥 **Criminal**
 ```bash
-  Nazrie Mili
+  Criminal
 ```
-- 🎥 **Sir**
+- 🎥 **Husan Ka Chore**
 ```bash
-  Sir
+  Husan Ka Chore
 ```
-- 🎵 **Sun Sun Sun Barsat Ki Dun**
+- 🎥 **Aashiqi**
 ```bash
-  Sun Sun Sun Barsat Ki Dun
+  Aashiqi
 ```
+
+## Track
+- 🎤 **Dildaria**
+```bash
+  Dildaria
+```
+
 # Listen on Spotify
 
 🎧 [Click here to listen on Spotify](https://open.spotify.com/embed/playlist/4mt5PCzlz3DzGp8UOLQVIz?utm_source=generator)
