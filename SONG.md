@@ -53,7 +53,9 @@ If you have a song or movie suggestion to add, or want to make improvements to t
 ```bash
 # Fork this repository.
 # Clone the forked repository to your local machine.
+```
 git clone https://github.com/your-username/your-repository.git
+```
 
 # Add your song or movie suggestion to the list.
 # Example: Open the file in a text editor
