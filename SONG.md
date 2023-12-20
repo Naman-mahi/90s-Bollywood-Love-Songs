@@ -7,16 +7,13 @@ Feel free to explore and enjoy the tunes. 🕺💃
 ## Songs
 In This Dil Me Kya Rakha Hai
 ```bash
-##Songs 
 - 🎵 **In This Dil Me Kya Rakha Hai**
 ```
-
-
-##
+Sun Zara Sun Zara
 ```bash
-## Songs 
 - 🎵 **Sun Zara Sun Zara**
-
+Sun Zara Sun Zara
+```bash
 - 🎵 **Sun Zara Sun Zara**
 - 🎵 **Sari Duniya Jala Denge Ge**
 - 🎵 **Koi Mil Gya Mera Dil Gya Sochenge Tumhe Pyar**
