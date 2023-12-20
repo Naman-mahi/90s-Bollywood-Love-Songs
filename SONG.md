@@ -24,24 +24,24 @@ Sun Zara Sun Zara
 - 🎵 **Sari Duniya Jala Denge Ge**
 
 ```bash
-  
+  Sari Duniya Jala Denge Ge
 ```
 
 - 🎵 **Koi Mil Gya Mera Dil Gya Sochenge Tumhe Pyar**
 ```bash
-  
+  Koi Mil Gya Mera Dil Gya Sochenge Tumhe Pyar
 ```
 - 🎥 **Diwana**
 ```bash
-  
+  Diwana
 ```
 - 🎵 **Khabo Be Basaya Tumko**
 ```bash
-  
+  Khabo Be Basaya Tumko
 ```
 - 🎵 **Tu Meri Jindigi Hai**
 ```bash
-  
+  Tu Meri Jindigi Hai
 ```
 - 🎥 **Aashiqi**
 ```bash
