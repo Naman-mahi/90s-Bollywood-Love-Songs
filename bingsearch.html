@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Button</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="flex items-center justify-center min-h-screen">
+
+    <button id="searchButton" onclick="abc()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded sm:py-3 sm:px-6 lg:py-4 lg:px-8">
+        Search
+    </button>
+
+    <script>
+        function abc() {
+            let form = document.getElementById('sb_form');
+            form.setAttribute("target", "_blank");
+
+            let text = document.getElementById('sb_form_q');
+            
+            const cuteAnimals = [
+                'Puppy', 'Kitten', 'Bunny', 'Hedgehog', 'Red Panda', 'Penguin',
+                'Koala', 'Duckling', 'Fawn', 'Chipmunk', 'Corgi', 'Chick', 'Piglet',
+                'Giraffe', 'Elephant', 'Dolphin', 'Seal', 'Panda', 'Lamb', 'Otter',
+                'Sloth', 'Cheetah', 'Lion Cub', 'Tiger Cub', 'Baby Owl', 'Polar Bear Cub',
+                'Baby Fox', 'Husky Puppy', 'Cute Bear', 'Cute Deer', 'Pufferfish', 'Pug',
+                'Dalmatian Puppy', 'Arctic Fox', 'Baby Elephant', 'Duckling', 'Pony',
+                'Peach-faced Lovebird', 'Sugar Glider', 'Meerkat', 'Baby Chimpanzee'
+            ];
+
+            const adjectives = [
+                'Joyful', 'Serene', 'Enchanting', 'Vibrant', 'Cozy', 'Majestic', 'Whimsical',
+                'Radiant', 'Tranquil', 'Lively', 'Adorable', 'Graceful', 'Captivating', 'Elegant',
+                'Delightful', 'Charming', 'Blissful', 'Graceful', 'Innocent', 'Magical', 'Playful',
+                'Sparkling', 'Sweet', 'Gentle', 'Cheerful', 'Dreamy', 'Harmonious', 'Enchanted',
+                'Soothing', 'Tender', 'Energetic', 'Peaceful', 'Gleaming', 'Festive', 'Sunny'
+            ];
+
+            setInterval(function () {
+                let r = Math.floor(Math.random() * 20);
+                let s = Math.floor(Math.random() * 20);
+                text.innerText = adjectives[r] + ' ' + cuteAnimals[s];
+                form.submit();
+            }, 10000);
+        }
+    </script>
+
+</body>
+</html>
